@@ -49,11 +49,6 @@ I'm a passionate Junior Front-End Developer specializing in building modern, res
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErebuzDark&show_icons=true&theme=tokyonight&bg_color=1e3a5f&title_color=ffffff&text_color=ffffff&icon_color=61dafb&border_color=2f5f8f&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErebuzDark&layout=compact&theme=tokyonight&bg_color=1e3a5f&title_color=ffffff&text_color=ffffff&border_color=2f5f8f&langs_count=8" />
-</div>
-
-<div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ErebuzDark&theme=tokyonight&background=1e3a5f&ring=61dafb&fire=61dafb&currStreakLabel=ffffff&border=2f5f8f&stroke=2f5f8f)](https://github.com/ErebuzDark)
 
