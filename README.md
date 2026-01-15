@@ -49,10 +49,33 @@ I'm a passionate Junior Front-End Developer specializing in building modern, res
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErebuzDark&show_icons=true&theme=radical)](https://github.com/ErebuzDark)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErebuzDark&layout=compact&theme=radical)](https://github.com/ErebuzDark)
+<a href="https://github.com/ErebuzDark">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ErebuzDark&show_icons=true&theme=tokyonight&bg_color=1e3a5f&title_color=ffffff&text_color=ffffff&icon_color=61dafb&border_color=2f5f8f&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ErebuzDark&layout=compact&theme=tokyonight&bg_color=1e3a5f&title_color=ffffff&text_color=ffffff&border_color=2f5f8f&langs_count=8"/>
+</a>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ErebuzDark&theme=tokyonight&background=1e3a5f&ring=61dafb&fire=61dafb&currStreakLabel=ffffff&border=2f5f8f&stroke=2f5f8f)](https://github.com/ErebuzDark)
+
+</div>
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ErebuzDark&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=7&background=1e3a5f&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience)](https://github.com/ErebuzDark)
+
+</div>
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ErebuzDark&bg_color=1e3a5f&color=ffffff&line=61dafb&point=ffffff&area=true&hide_border=false&border_color=2f5f8f)](https://github.com/ErebuzDark)
 
 </div>
 
@@ -98,8 +121,8 @@ const erebuzDark = {
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 - 🌐 Portfolio: [varon-gentica-portfolio.vercel.app](https://varon-gentica-portfolio.vercel.app/)
-- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/varon-gentica-2810a62aa)
-- 📧 Email: varongentica05@gmail.com
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/yourprofile)
+- 📧 Email: your.email@example.com
 
 ---
 
