@@ -46,36 +46,47 @@ I'm a passionate Junior Front-End Developer specializing in building modern, res
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-<a href="https://github.com/ErebuzDark">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ErebuzDark&show_icons=true&theme=tokyonight&bg_color=1e3a5f&title_color=ffffff&text_color=ffffff&icon_color=61dafb&border_color=2f5f8f&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ErebuzDark&layout=compact&theme=tokyonight&bg_color=1e3a5f&title_color=ffffff&text_color=ffffff&border_color=2f5f8f&langs_count=8"/>
-</a>
+### 💻 Quick Stats
+
+![](https://img.shields.io/badge/Total_Repos-27-1e3a5f?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Contributions_2024-638-1e3a5f?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Primary_Language-JavaScript-1e3a5f?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Framework-React-1e3a5f?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
+---
+
 <div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ErebuzDark&theme=tokyonight&background=1e3a5f&ring=61dafb&fire=61dafb&currStreakLabel=ffffff&border=2f5f8f&stroke=2f5f8f)](https://github.com/ErebuzDark)
+
+### 📈 Detailed Statistics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ErebuzDark&show_icons=true&theme=tokyonight&bg_color=1e3a5f&title_color=ffffff&text_color=ffffff&icon_color=61dafb&border_color=2f5f8f&include_all_commits=true&count_private=true&hide=issues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErebuzDark&show_icons=true&theme=tokyonight&bg_color=1e3a5f&title_color=ffffff&text_color=ffffff&icon_color=61dafb&border_color=2f5f8f&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ErebuzDark&layout=compact&theme=tokyonight&bg_color=1e3a5f&title_color=ffffff&text_color=ffffff&border_color=2f5f8f&langs_count=6&hide=html,css">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErebuzDark&layout=compact&theme=tokyonight&bg_color=1e3a5f&title_color=ffffff&text_color=ffffff&border_color=2f5f8f&langs_count=6&hide=html,css" alt="Top Languages" />
+</picture>
 
 </div>
 
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ErebuzDark&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=7&background=1e3a5f&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Experience)](https://github.com/ErebuzDark)
-
-</div>
+---
 
 <div align="center">
 
-## 📈 Contribution Graph
+### 🔥 Contribution Streak
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ErebuzDark&bg_color=1e3a5f&color=ffffff&line=61dafb&point=ffffff&area=true&hide_border=false&border_color=2f5f8f)](https://github.com/ErebuzDark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ErebuzDark&theme=tokyonight&background=1e3a5f&ring=61dafb&fire=61dafb&currStreakLabel=ffffff&border=2f5f8f">
+  <img src="https://streak-stats.demolab.com/?user=ErebuzDark&theme=tokyonight&background=1e3a5f&ring=61dafb&fire=61dafb&currStreakLabel=ffffff&border=2f5f8f" alt="GitHub Streak" />
+</picture>
 
 </div>
 
