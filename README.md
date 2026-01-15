@@ -50,11 +50,9 @@ I'm a passionate Junior Front-End Developer specializing in building modern, res
 
 <div align="center">
   
-![ErebuzDark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErebuzDark&show_icons=true&theme=tokyonight&bg_color=1e3a5f&title_color=ffffff&text_color=ffffff&icon_color=61dafb&border_color=2f5f8f&hide_border=false)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErebuzDark&show_icons=true&theme=radical)](https://github.com/ErebuzDark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErebuzDark&layout=compact&theme=tokyonight&bg_color=1e3a5f&title_color=ffffff&text_color=ffffff&border_color=2f5f8f&hide_border=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErebuzDark&theme=tokyonight&background=1e3a5f&ring=61dafb&fire=61dafb&currStreakLabel=ffffff&border=2f5f8f)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErebuzDark&layout=compact&theme=radical)](https://github.com/ErebuzDark)
 
 </div>
 
