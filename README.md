@@ -104,8 +104,8 @@ const erebuzDark = {
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 - 🌐 Portfolio: [varon-gentica-portfolio.vercel.app](https://varon-gentica-portfolio.vercel.app/)
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [Connect with me](www.linkedin.com/in/varon-gentica-2810a62aa)
+- 📧 Email: varongentica05@gmail.com
 
 ---
 
